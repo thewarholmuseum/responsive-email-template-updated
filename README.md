@@ -1,0 +1,1 @@
+This repository contains a flexible and responsive email template used by The Andy Warhol Museum for marketing and communications, updated to relfect changes to our digital and communications strategies  implemented Spring of 2017.
